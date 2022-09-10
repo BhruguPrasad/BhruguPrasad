@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://cozy-zuccutto-4ecbcb.netlify.app](https://cozy-zuccutto-4ecbcb.netlify.app)
-
 - 📫 How to reach me **bhrugupadhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
