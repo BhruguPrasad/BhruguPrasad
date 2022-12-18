@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full Stack Web Developer. Capable of writing code using ReactJS, CSS on the frontend, and NodeJS on the backend to build single-page applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhruguprasad" alt="bhruguprasad" /></a> </p>
-<img align="right" width="40%" height="auto" src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e476vmz531xhlxx640d9p9tegu1axrrd3ryvcb2cjyo&rid=giphy.gif&ct=g" alt="Coding" />
+<img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://bhruguprasad.github.io/](https://bhruguprasad.github.io/)
