@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhrugu Prasad</h1>
 <h3 align="center">Aspiring Full Stack Web Developer. Capable of writing code using ReactJS, CSS on the frontend, and NodeJS on the backend to build single-page applications.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhruguprasad&label=Profile%20views&color=0e75b6&style=flat" alt="bhruguprasad" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhruguprasad" alt="bhruguprasad" /></a> </p>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 - 🌱 I’m currently learning **MERN Stack**
@@ -25,8 +25,8 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/bhruguprasad" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhruguprasad&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhruguprasad&theme=noctis_minimus&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bhruguprasad&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhruguprasad&theme=noctis_minimus&layout=compact" />
   
 </a>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhruguprasad&theme=noctis_minimus&layout=compact" align="center"/>
