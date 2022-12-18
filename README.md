@@ -6,11 +6,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 👨‍💻 All of my projects are available at [https://bhruguprasad.github.io/](https://bhruguprasad.github.io/)
+
 - 📫 How to reach me **bhrugupadhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhrugu prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhrugu prasad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhrugu-prasad-61b759232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhrugu-prasad-61b759232/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
