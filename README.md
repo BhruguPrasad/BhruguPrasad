@@ -24,12 +24,12 @@
 <p align="left"> <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/chakra-ui.png" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/nodejs.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/48/null/react.png" alt="react" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="mongodb" width="40" height="40"/> </a> </p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/bhruguprasad" align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bhruguprasad&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhruguprasad&theme=noctis_minimus&layout=compact" />
-  
+<a align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhruguprasad&theme=noctis_minimus&show_icons=true" /><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhruguprasad&theme=noctis_minimus&layout=compact" />
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhruguprasad&theme=dark"/>
 </a>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhruguprasad&theme=noctis_minimus&layout=compact" align="center"/>
+
 <!-- ![Alt Text](https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e476vmz531xhlxx640d9p9tegu1axrrd3ryvcb2cjyo&rid=giphy.gif&ct=g) -->
 
 <p align="center">
